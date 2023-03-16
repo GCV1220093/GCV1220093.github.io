@@ -1,0 +1,37 @@
+/* all of your css goes here */
+h1 { 
+font-family: Calibri;
+font-size: 100px;
+color:crimson;
+text-align: center;
+border-style: dotted;
+border-color:black
+}
+canvas {
+    border-style:solid
+
+}
+h2 {
+font-family: Calibri;
+color:crimson;
+text-align: center;
+font-size: 30px;
+}
+
+text {
+    font-family: Calibri;
+    color: crimson;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 5px, 5px, 5px, black;
+}
+
+body {
+    background-color: black;
+}
+
+
+
+
+    
+
